@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a budding data scientist with interest in numbers,Natural Language Processing and Finance. I develop codee in python for a variety of analytics problems. 
+I'm a budding data scientist with interest in numbers,Natural Language Processing and Finance. I develop code in python for a variety of analytics problems. 
 
 <!--
 **Satyaki9207/Satyaki9207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
