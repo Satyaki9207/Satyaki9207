@@ -7,7 +7,9 @@ Tools
 3. Natural Language Processing : NLTK, Spacy
 
 ## Projects
-[Predicting Employee Attrition](https://github.com/Satyaki9207/kaggle_HR_analytics/tree/master)
+[**Predicting Employee Attrition**](https://github.com/Satyaki9207/kaggle_HR_analytics/tree/master)
+This data set has 2 numeric features and 12 categorical features relating to employees, of which 6 are nominal features and 4 are ordinal features. Some of the nominal features have high cardinality. I have done extensive data visualization for all features. Objective was to predict employee attrition and most important factors related to employee attrition.
+Keywords : Classification, Categorical Variables, Missing value imputation, Data Visualization, Random Forest, Gradient Boosting
 
 
 
