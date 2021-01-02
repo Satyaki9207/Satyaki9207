@@ -1,5 +1,5 @@
 # Data Science Portfolio 👋
-Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
+Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks. I will update it quite regularly
 
 Tools 
 1. Python : Numpy, Pandas, Matplotlib, Seaborn
