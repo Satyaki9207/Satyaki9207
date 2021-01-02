@@ -1,5 +1,15 @@
-### Hi there 👋
-I'm a budding data scientist with interest in numbers,Natural Language Processing and Finance. I develop code in python for a variety of analytics problems. 
+# Data Science Portfolio 👋
+Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
+
+Tools 
+1. Python : Numpy, Pandas, Matplotlib, Seaborn
+2. Machine learning : Scikit learn, Keras, Tensorflow
+3. Natural Language Processing : NLTK, Spacy
+
+## Projects
+[Predicting Employee Attrition](https://github.com/Satyaki9207/kaggle_HR_analytics/tree/master)
+
+
 
 <!--
 **Satyaki9207/Satyaki9207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
