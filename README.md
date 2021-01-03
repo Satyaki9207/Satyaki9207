@@ -1,10 +1,12 @@
 # Data Science Portfolio 👋
-Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks. I will update it quite regularly
+Hi, I am currently pursuing my Msc in Data and Business analytics at Rennes School of Business, France. I have a background in mechanical engineering and interested in machine learning and natural language processing. This is a repository containing all the projects for academics and personal interest 
 
 Tools 
-1. Python : Numpy, Pandas, Matplotlib, Seaborn
-2. Machine learning : Scikit learn, Keras, Tensorflow
-3. Natural Language Processing : NLTK, Spacy
+1. SQL
+2. Python : Numpy, Pandas, Matplotlib, Seaborn,Plotly
+3. Machine learning : Scikit learn, Keras, Tensorflow
+4. Natural Language Processing : NLTK, Spacy
+5. Git and Github
 
 ## Projects
 [**Predicting Employee Attrition**](https://github.com/Satyaki9207/kaggle_HR_analytics/tree/master)
