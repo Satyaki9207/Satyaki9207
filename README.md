@@ -9,11 +9,16 @@ Technical skills
 5. Git and Github
 
 ## Projects
+
+[**Becoming a data professional -- insights from kaggle's 2020 DS survey**](https://github.com/Satyaki9207/how-to-become-a-data-professional)  
+There are so many resources on the internet for learning Data science and well as a vast number of machine learning techniques from simple linear regression to advanced deep learning based methods. It may be very confusing for someone trying to break into the field to get a grasp of exactly what to learn. Since I'm trying to break into the field myself, I decided to explore Kaggle's 2020 data science survey. It consists of about 20,000 responses, both from students and professionals about their age, education ,job roles and large variety of other profession related topics.In this analysis, I tried looking at the professionals and data science practices of companies, both large and small and try to find patterns in professionals within a job role and across job roles
+<br/>
+**Keywords** Data wrangling, Exploratory Data Analysis
+
 [**Predicting Employee Attrition**](https://github.com/Satyaki9207/kaggle_HR_analytics/tree/master)
 A company which is active in Big Data and Data Science wants to hire data scientists among people who successfully pass some courses which conduct by the company. Many people signup for their training. Company wants to know which of these candidates are really wants to work for the company after training or looking for a new employment because it helps to reduce the cost and time as well as the quality of training or planning the courses and categorization of candidates. Information related to demographics, education, experience are in hands from candidates signup and enrollment<br/>
 <br/>
 **Keywords** : Classification, Categorical Variables, Missing value imputation, Data Visualization, Random Forest, Gradient Boosting,imbalanced classes
-
 
 
 <!--
