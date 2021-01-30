@@ -17,7 +17,7 @@ There are so many resources on the internet for learning Data science and well a
 **Keywords** Data wrangling, Exploratory Data Analysis, Data visualization
 
 [**Predicting Employee Attrition**](https://github.com/Satyaki9207/kaggle_HR_analytics/tree/master)
-A company which is active in Big Data and Data Science wants to hire data scientists among people who successfully pass some courses which conduct by the company. Many people signup for their training. Company wants to know which of these candidates are really wants to work for the company after training or looking for a new employment because it helps to reduce the cost and time as well as the quality of training or planning the courses and categorization of candidates. Information related to demographics, education, experience are in hands from candidates signup and enrollment<br/>
+A company which is active in Big Data and Data Science wants to hire data scientists among people who successfully complete some courses conducted by the company. Many people signup for their training. They want to know which of these candidates really want to work for the company after training or look for new employment. They are interested in reducing the cost and time for planning the courses and categorization of candidates. Information related to demographics, education, experience are collected from the candidates at the time of enrollment<br/>
 <br/>
 **Keywords** : Classification, Categorical Variables, Missing value imputation, Data Visualization, Random Forest, Gradient Boosting,imbalanced classes
 
