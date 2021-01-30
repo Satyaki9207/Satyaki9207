@@ -1,5 +1,5 @@
 # Data Science Portfolio 👋
-Hi, I am currently pursuing my Msc in Data and Business analytics at Rennes School of Business, France . I have a background in Mechanical engineering and well versed in numerical and statistical methods. I'm interested in machine learning and natural language processing. This is a repository containing all the projects for academics and personal interest. Also 
+Hi, I am currently pursuing my Msc in Data and Business analytics at Rennes School of Business, France . I have a background in Mechanical engineering and well versed in numerical and statistical methods. I'm interested in machine learning and natural language processing. This is a repository containing all the projects for academics and personal interest. 
 
 Technical skills
 1. SQL
