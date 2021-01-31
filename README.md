@@ -1,5 +1,5 @@
 # Data Science Portfolio 👋
-Hi, I am currently pursuing my Msc in Data and Business analytics at Rennes School of Business, France . I have a background in Mechanical engineering and about 3 years of experience working in the automotive industry. I worked on an autonomous vehicle project while working for my former employer (GM). Since then I decided to pursue a full time career in Data science. This is a repository containing all the projects for academics and personal interest. 
+Hi, I am currently pursuing my Msc in Data and Business analytics at Rennes School of Business, France . I have a background in Mechanical engineering and about 3 years of experience working in the automotive industry where I had experience in handling large datasets,deriving KPIs and business insights from them and automating processes in python. Since then I decided to pursue a full time career in Data science. This is a repository containing all the projects for academics and personal interest. 
 
 Technical skills
 1. SQL
