@@ -18,6 +18,12 @@ There are so many resources on the internet for learning Data science and well a
 <br/>
 **Keywords** Data wrangling, Exploratory Data Analysis, Data visualization
 
+[**Predicting credit Default**](https://github.com/Satyaki9207/Loan_default_prediction)  
+A bank is interested in predicting which customers are likely to default on loans in advance.It can adjust customer's credit worthiness criteria accordingly and avoid giving out bad loans. It has collected data like credit utilization,age,past delinquency,debt ratio,income etc related to the customer.  
+
+**Keywords** Binary classification, imbalanced classes, xgboost, neural network
+
+
 [**Predicting Employee Attrition**](https://github.com/Satyaki9207/kaggle_HR_analytics/tree/master)
 A company which is active in Big Data and Data Science wants to hire data scientists among people who successfully complete some courses conducted by the company. Many people signup for their training. They want to know which of these candidates really want to work for the company after training or look for new employment. They are interested in reducing the cost and time for planning the courses and categorization of candidates. Information related to demographics, education, experience are collected from the candidates at the time of enrollment<br/>
 <br/>
