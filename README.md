@@ -6,7 +6,8 @@ Technical skills
 2. Python : Numpy, Pandas, Matplotlib, Seaborn,Plotly
 3. Machine learning : Scikit learn, Keras, Tensorflow
 4. Natural Language Processing : NLTK, Spacy
-5. Git and Github
+5. MS Office : Word,Excel,Powerpoint
+6. Git and Github
 
 ## Projects
 
