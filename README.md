@@ -3,7 +3,8 @@ Hi, I'm Satyaki. I have a background in mechanical engineering and experience ha
 
 
 <h2>Technical Skills</h2>
-+ Programming languages: Python, SQL, HTML   
++ Programming languages: Python, SQL, HTML  
+ 
 + Version control: Git  
 + Tools: Jupyter notebooks, PostgreSQL, VSCode, Microsoft Excel, Tableau  
 + Data wrangling:  Numpy, Pandas  
