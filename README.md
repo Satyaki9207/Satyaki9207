@@ -2,9 +2,9 @@
 Hi, I'm Satyaki. I have a background in mechanical engineering and experience handling datasets, building dashboards and end to end ml pipelines in the feild of predictive maintenance. I have worked for an automotive company  where  my responsibilities were to build simulations for EV batteries, build dashboards for sensor data and build and maintain predictive models for failure detection for the EV batteries. Currently pursuing my Msc in Data and Business analytics
 
 
-<h2>Technical Skills</h2>
+<h2>Technical Skills</h2>  
+
 + Programming languages: Python, SQL, HTML  
- 
 + Version control: Git  
 + Tools: Jupyter notebooks, PostgreSQL, VSCode, Microsoft Excel, Tableau  
 + Data wrangling:  Numpy, Pandas  
