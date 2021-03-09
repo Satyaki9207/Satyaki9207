@@ -3,17 +3,17 @@ Hi, I'm Satyaki. I have a background in mechanical engineering and experience ha
 
 
 <h2>Technical Skills</h2>
-**Programming languages:** Python, SQL, HTML   
-**Version control:** Git  
-**Tools:** Jupyter notebooks, PostgreSQL, VSCode, Microsoft Excel, Tableau  
-**Data wrangling:**  Numpy, Pandas  
-**Data Visualization:** matplotlib, seaborn, Plotly  
-**Machine learning:** scikit learn. 
-**Deep learning:**  Keras, Tensorflow  
-**Natural Language processing:** nltk, spacy  
-**Deployment:** flask, streamlit, heroku  
-**Supervised learning algorithms:** Linear Regression, Logistic Regression, support vector machine, KNN, Decision Tree, Random Forest, Bagging Algorithms, Boosting algorithms, time series.  
-**Unsupervised learning:** K-means clustering, DB scan, collaborative filtering, Dimension reduction (LDA, PCA)  
++ Programming languages: Python, SQL, HTML   
++ Version control: Git  
++ Tools: Jupyter notebooks, PostgreSQL, VSCode, Microsoft Excel, Tableau  
++ Data wrangling:  Numpy, Pandas  
++ Data Visualization: matplotlib, seaborn, Plotly  
++ Machine learning: scikit learn. 
++ Deep learning:  Keras, Tensorflow  
++ Natural Language processing: nltk, spacy  
++ Deployment: flask, streamlit, heroku  
++ Supervised learning algorithms: Linear Regression, Logistic Regression, support vector machine, KNN, Decision Tree, Random Forest, Bagging Algorithms, Boosting algorithms, time series.  
++ Unsupervised learning: K-means clustering, DB scan, collaborative filtering, Dimension reduction (LDA, PCA)  
 
 
 ## Projects
