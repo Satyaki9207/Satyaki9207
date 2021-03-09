@@ -1,13 +1,20 @@
 # Data Science Portfolio 👋
-Hi, I am currently pursuing my Msc in Data and Business analytics at Rennes School of Business, France . I have a background in Mechanical engineering and about 3 years of experience working in the automotive industry where I had experience in handling large datasets,deriving KPIs and business insights from them and automating processes in python.  This is a repository containing all the projects for academics and personal interest. 
+Hi, I'm Satyaki. I have a background in mechanical engineering and experience handling datasets, building dashboards and end to end ml pipelines in the feild of predictive maintenance. I have worked for an automotive company for about 4 years where I my responsibilities were to build simulations for EV batteries, build dashboards for sensor data and build and maintain predictive models for failure detection for the EV batteries. Currently pursuing my Msc in Data and Business analytics
 
-Technical skills
-1. SQL
-2. Python : Numpy, Pandas, Matplotlib, Seaborn,Plotly
-3. Machine learning : Scikit learn, Keras, Tensorflow
-4. Natural Language Processing : NLTK, Spacy
-5. MS Office : Word,Excel,Powerpoint
-6. Git and Github
+
+<h2>Technical Skills</h2>
+**Programming languages:** Python, SQL, HTML   
+**Version control:** Git  
+**Tools:** Jupyter notebooks, PostgreSQL, VSCode, Microsoft Excel, Tableau  
+**Data wrangling:**  Numpy, Pandas  
+**Data Visualization:** matplotlib, seaborn, Plotly  
+**Machine learning:** scikit learn. 
+**Deep learning:**  Keras, Tensorflow  
+**Natural Language processing:** nltk, spacy  
+**Deployment:** flask, streamlit, heroku  
+**Supervised learning algorithms:** Linear Regression, Logistic Regression, support vector machine, KNN, Decision Tree, Random Forest, Bagging Algorithms, Boosting algorithms, time series.  
+**Unsupervised learning:** K-means clustering, DB scan, collaborative filtering, Dimension reduction (LDA, PCA)  
+
 
 ## Projects
 
