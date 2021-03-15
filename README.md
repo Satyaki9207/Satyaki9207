@@ -19,6 +19,12 @@ Hi, I'm Satyaki. I have a background in mechanical engineering and experience ha
 
 ## Projects
 
+[**Movie recommender system**](https://github.com/Satyaki9207/recommendation_system)  
+Recommendation engines are one of the most popular applications of unsupervised machine learning models. Here I have implemented a model based on user-item collaborative filtering. Collaborative filtering works on the principle of homophilly. That is similar users like similar items and the system can predict movies to an individual based on patterns observed from a larger dataset
+<br/>
+<br/>
+**Keywords** collaborative filtering, recommendation engine, data visualization
+
 
 
 [**Becoming a data professional -- insights from kaggle's 2020 DS survey**](https://github.com/Satyaki9207/how-to-become-a-data-professional)  
@@ -33,10 +39,6 @@ A bank is interested in predicting which customers are likely to default on loan
 **Keywords** Binary classification, imbalanced classes, xgboost, neural network
 
 
-[**Predicting Employee Attrition**](https://github.com/Satyaki9207/kaggle_HR_analytics/tree/master)
-A company which is active in Big Data and Data Science wants to hire data scientists among people who successfully complete some courses conducted by the company. Many people signup for their training. They want to know which of these candidates really want to work for the company after training or look for new employment. They are interested in reducing the cost and time for planning the courses and categorization of candidates. Information related to demographics, education, experience are collected from the candidates at the time of enrollment<br/>
-<br/>
-**Keywords** : Classification, Categorical Variables, Missing value imputation, Data Visualization, Random Forest, Gradient Boosting,imbalanced classes
 
 
 <!--
