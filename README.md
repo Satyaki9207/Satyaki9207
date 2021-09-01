@@ -1,12 +1,12 @@
 # Data Science Portfolio 👋
-Hi, I'm Satyaki. I have a background in mechanical engineering and experience handling datasets, building dashboards and end to end ml pipelines in the feild of predictive maintenance. I have worked for an automotive company  where  my responsibilities were to build simulations for EV batteries, build dashboards for sensor data and build and maintain predictive models for failure detection for the EV batteries. Currently pursuing my Msc in Data and Business analytics
+Hi, I'm Satyaki. I have a background in mechanical engineering and experience handling datasets, building dashboards and end to end ml pipelines in the feild of predictive maintenance. I have worked for an automotive company  where  my responsibilities were to build simulations for EV batteries, build dashboards for sensor data and build and maintain predictive models for failure detection for the EV batteries. Currently working for a health insurance client where my responsibilities are automation of claims adjudication and document processing and entity extraction using NER-RE models
 
 
 <h2>Technical Skills</h2>  
 
 + Programming languages: Python, SQL, HTML  
 + Version control: Git  
-+ Tools: Jupyter notebooks, PostgreSQL, VSCode, Microsoft Excel, Tableau  
++ Tools: Jupyter notebooks, PostgreSQL, VSCode, Microsoft Excel, Tableau, AWS Sagemaker
 + Data wrangling:  Numpy, Pandas  
 + Data Visualization: matplotlib, seaborn, Plotly  
 + Machine learning: scikit learn. 
